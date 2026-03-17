@@ -6,7 +6,7 @@ I am a backend developer with extensive experience in building robust solutions 
 
 ## 🛠️ Skills and Expertise
 - **Technical Leadership**: Proficient in interviewing, mentoring, and software design.
-- **Backend Development**: Expertise in Python, Django, Django REST Framework, FastAPI, Flask, Go, and Java.
+- **Backend Development**: Expertise in Golang, Python, Django, Django REST Framework, FastAPI, Flask, and Java.
 - **Frontend Technologies**: Proficient with JavaScript, HTML, CSS.
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis, and Clickhouse.
 - **Message Queues**: Celery.
