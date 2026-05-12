@@ -1,24 +1,28 @@
 # ![ian chechin header](img/1723894343759.jpeg)
 
-# Hello there!
+## Hi, I'm Ian
 
-I am a backend developer with extensive experience in building robust solutions across various industries. My expertise spans multiple technologies, with a strong focus on Python and modern web frameworks. Additionally, I have a deep understanding of system design, mentoring, and technical leadership.
+Go engineer and tech lead. Working on P2P messaging and distributed systems infrastructure.
 
-## 🛠️ Skills and Expertise
-- **Technical Leadership**: Proficient in interviewing, mentoring, and software design.
-- **Backend Development**: Expertise in Golang, Python, Django, Django REST Framework, FastAPI, Flask, and Java.
-- **Frontend Technologies**: Proficient with JavaScript, HTML, CSS.
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis, and Clickhouse.
-- **Message Queues**: Celery.
-- **Containers & Orchestration**: Docker, Kubernetes.
-- **Monitoring & Logging**: Experienced with Graylog, Prometheus, and Grafana.
-- **Version Control**: Git.
-- **Issue Tracking**: Jira.
+### Current focus
+- **P2P messenger on Matrix protocol**: embedded Dendrite homeserver + Pinecone overlay routing, cross-compiled to Android/iOS via gomobile. Tech lead on a 5-person Go team.
+- **Open source**: contributing to Go networking and distributed systems projects.
+- **Writing**: technical deep-dives on NAT traversal, gomobile internals, and embedded SQLite on mobile.
 
-## 🎓 Education
-- **Master's Degree in Computer Science and Technology**
+### Stack
+- **Languages**: Go (primary), Python, Java (reading)
+- **Domains**: P2P networking, NAT traversal, mobile cross-compilation, Matrix protocol, distributed messaging, end-to-end encryption
+- **Infra**: Kubernetes, Docker, GitLab CI, Prometheus, Loki, NATS JetStream
+- **Storage**: SQLite (pure-Go via modernc.org), PostgreSQL
 
-## 🌐 Development Community
-I am actively involved in the development community, contributing through public speaking, writing technical articles, and participating in various projects.
+### Previously
+Senior Python engineer at a Skolkovo-resident proptech: FastAPI, Django, Celery, ETL pipelines processing 300K+ real estate records, ML-driven valuation models.
 
-Feel free to explore my repositories to see my work in action!
+### Education
+Master's in Computer Science.
+
+### Contact
+- LinkedIn: [Ian Chechin](https://www.linkedin.com/in/ianchechin/)
+- Email: ian00chechin@gmail.com
+- Telegram: [@ianchechin](https://t.me/ianchechin)
+- LeetCode: [Ian_Chechin](https://leetcode.com/Ian_Chechin/)
