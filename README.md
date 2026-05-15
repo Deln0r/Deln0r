@@ -10,10 +10,10 @@ Go engineer and tech lead. Working on P2P messaging and distributed systems infr
 - **Writing**: technical deep-dives on NAT traversal, gomobile internals, and embedded SQLite on mobile.
 
 ### Stack
-- **Languages**: Go (primary), Python, Java (reading)
-- **Domains**: P2P networking, NAT traversal, mobile cross-compilation, Matrix protocol, distributed messaging, end-to-end encryption
+- **Languages**: Go (primary), Python, Java
+- **Domains**: Backend, P2P networking, NAT traversal, mobile cross-compilation, Matrix protocol, distributed messaging, end-to-end encryption
 - **Infra**: Kubernetes, Docker, GitLab CI, Prometheus, Loki, NATS JetStream
-- **Storage**: SQLite (pure-Go via modernc.org), PostgreSQL
+- **Storage**: SQLite, PostgreSQL
 
 ### Previously
 Senior Python engineer at a Skolkovo-resident proptech: FastAPI, Django, Celery, ETL pipelines processing 300K+ real estate records, ML-driven valuation models.
