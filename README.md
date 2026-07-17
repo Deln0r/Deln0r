@@ -6,7 +6,7 @@ Go engineer and tech lead. Working on P2P messaging and distributed systems infr
 
 ### Current focus
 - **P2P messenger on Matrix protocol**: embedded Dendrite homeserver + Pinecone overlay routing, cross-compiled to Android/iOS via gomobile. Tech lead on a 5-person Go team.
-- **Open source**: contributing to Go networking and distributed systems projects.
+- **Open source**: maintaining modernc.org/sqlite, building pure-Go protocol ports.
 - **Writing**: technical deep-dives on NAT traversal, gomobile internals, and embedded SQLite on mobile.
 
 ### Stack
@@ -31,4 +31,5 @@ Master's in Computer Science (in progress, 2027)
 - LinkedIn: [Ian Chechin](https://www.linkedin.com/in/ianchechin/)
 - Email: ian00chechin@gmail.com
 - Telegram: [@ianchechin](https://t.me/ianchechin)
-- Medium: [Ian_Chechin](https://medium.com/@Deln0r)
+- Medium: [@Deln0r](https://medium.com/@Deln0r)
+- ORCID: [0009-0001-4060-5261](https://orcid.org/0009-0001-4060-5261)
