@@ -20,10 +20,6 @@ Go engineer and tech lead. Working on P2P messaging and distributed systems infr
 - Merged contributions to **etcd** (auth/maintenance backports), **golang.org/x/mobile** (Objective-C binding fixes), etcd-io/auger.
 - Pure-Go protocol and CRDT ports: ygo (Yjs), loro-go (Loro, listed in official docs), willow-go (Willow), dap-go (IETF DAP).
 
-
-### Previously
-Senior Python engineer at a Skolkovo-resident proptech: FastAPI, Django, Celery, ETL pipelines processing 300K+ real estate records, ML-driven valuation models.
-
 ### Education
 Master's in Computer Science (in progress, 2027)
 
